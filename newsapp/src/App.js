@@ -3,8 +3,8 @@ import News from './component/News';
 
 import Navbar from './component/Navbar'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import Home from './component/Home';
-// import News1 from './component/News1';
+import Home from './component/Home';
+import News1 from './component/News1';
 import LoadingBar from 'react-top-loading-bar'
 import Navbar2 from './component/Navbar2';
 
