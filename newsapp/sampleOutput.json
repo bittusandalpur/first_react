@@ -1,0 +1,77 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Mark Maske",
+      "title": "Trevor Lawrence equals Joe Burrow as NFL's highest-paid player - The Washington Post",
+      "description": "Lawrence agreed to a five-year, $275 million contract extension with the Jaguars, matching the deal Burrow signed with the Bengals in September.",
+      "url": "https://www.washingtonpost.com/sports/2024/06/13/trevor-lawrence-contract-deal-jaguars/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFY2JDUPCAI63ODKFY5HOM3LRY.jpg&w=1440",
+      "publishedAt": "2024-06-14T05:51:00Z",
+      "content": "Trevor Lawrence landed the latest megadeal among NFL quarterbacks.\r\nLawrence agreed to a five-year contract extension with the Jacksonville Jaguars worth $275 million, two people familiar with the ag… [+2220 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Rolling Stone" },
+      "author": "Charisma Madarang",
+      "title": "R.E.M.'s Original Members Reunite to Perform for First Time Since 2007 - Rolling Stone",
+      "description": "R.E.M. took to the stage for a surprise performance celebrating their induction into the Songwriters Hall of Fame on Thursday night.",
+      "url": "http://www.rollingstone.com/music/music-news/rem-reunite-songwriters-hall-of-fame-performance-1235040028/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/06/R.E.M-reunion-perform.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-06-14T04:19:22Z",
+      "content": "Less than a day after bassist Mike Mills declared it would take “a comet” for the four founding members of R.E.M. to play together again, the quartet took to the stage for a surprise performance cele… [+2565 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Stanley Cup Final Game 3 Highlights | Panthers vs. Oilers - June 13, 2024 - SPORTSNET",
+      "description": "Aleksander Barkov scored the game-winning goal and notched an assist and Sergei Bobrovsky made 32 saves to lead the Florida Panthers to a 4-3 win over the Ed...",
+      "url": "https://www.youtube.com/watch?v=2sCu3LeU8zQ",
+      "urlToImage": "https://i.ytimg.com/vi/2sCu3LeU8zQ/maxresdefault.jpg",
+      "publishedAt": "2024-06-14T03:14:57Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Microsoft to delay release of Recall AI feature on security concerns - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-14T03:03:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Gabrielle Chung",
+      "title": "Jesse Plemons Addresses Ozempic Rumors Amid Weight Loss Journey - E! NEWS",
+      "description": "Breaking Bad actor Jesse Plemons cleared the air about his weight loss, shutting down speculation that he used Ozempic—the type 2 diabetes drug known to reduce appetite—to drop the pounds.",
+      "url": "https://www.eonline.com/news/1403667/jesse-plemons-addresses-ozempic-rumors-amid-weight-loss-journey",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024513/cr_1200x1200-240613185727-GettyImages-2153504469.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-06-14T02:58:00Z",
+      "content": "Ozempic is no laughing matter for the comedian. Handler revealed her \"anti-aging doctor\" prescribed the medication without her realizing what the drug was.\r\n\"I didn't even know I was on it,\" she said… [+932 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Brett Okamoto",
+      "title": "Dana White -- Conor McGregor-Michael Chandler UFC 303 fight off - ESPN",
+      "description": "Conor McGregor will no longer fight Michael Chandler at UFC 303 due to injury. The new main event is a light heavyweight title fight between Alex Pereira and Jiri Procházka.",
+      "url": "https://www.espn.com/mma/story/_/id/40346917/dana-white-says-mcgregor-chandler-ufc-303-fight-now-off",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0115%2Fr1277597_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-06-14T02:57:00Z",
+      "content": "Conor McGregor will no longer fight Michael Chandler at UFC 303 on June 29 in Las Vegas, UFC president Dana White said Thursday night.\r\nMcGregor (22-6) was scheduled to headline the event but has wit… [+2727 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Mifepristone: Supreme Court rejects limits on abortion pill - BBC.com",
+      "description": "Mifepristone is used in medication abortion, the most common method of ending pregnancies in the US.",
+      "url": "https://www.bbc.com/news/articles/c2qq1wqw3w2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9e76/live/64f0df90-2998-11ef-a1fa-1b739acc6f54.jpg",
+      "publishedAt": "2024-06-14T02:22:24Z",
+      "content": "By Holly Honderich, BBC News, Washington\r\nThe US Supreme Court has unanimously rejected an effort to restrict access to the abortion pill mifepristone.\r\nThe decision, which came two years after the c… [+4736 chars]"
+    }
+   
+  ]
+}
